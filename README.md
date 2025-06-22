@@ -22,4 +22,4 @@ Unsplash: Background image for visual appeal.<br>
 # Follow Lyrics:
 # Use the buttons (Line 2, Line 3, Line 4, Reset) below the lyrics to progress through the song’s lines, displaying the corresponding words and notes.
 ---
-## Live Demo
+ ## 🌐 **Live Demo:** [Piano Player](https://divyap27.github.io/Piano/)
